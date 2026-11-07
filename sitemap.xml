@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.tadbe.in/</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/index.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/about.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/speaker.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/schedule.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/gallery.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/contact.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/register.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/login.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/visitor.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/delegates.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/stall.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.tadbe.in/forgot-password.php</loc>
+  <lastmod>2019-12-21T20:49:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
